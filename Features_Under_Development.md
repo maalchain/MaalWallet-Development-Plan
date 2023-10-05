@@ -1,5 +1,9 @@
 **Under active Development**
 
+Capture User's KYC details
+
+-> Integration with FaceTec APIs to capture KYC details of the users
+
 Wallet Management
 
 -> Add New Wallet:
