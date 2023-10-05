@@ -25,6 +25,8 @@ Signup and login
 
 Wallet Generation
 
+-> Integration of MAAL, BTC, Ethereum, Polygon & Binance Smart Chain network
+
 -> Wallets are generated for MAAL, BNB, ETH, MATIC, USDT (BEP20,ERC20)
 
 Wallet Management
